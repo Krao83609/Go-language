@@ -21,5 +21,6 @@ func main() {
 	userTickets = 3
 
 	fmt.Printf(" User %v reserved %v tickets for Tyrion and Tywin.\n", userName, userTickets)
+	fmt.Printf("The type of remainingTickets: %T\n, remainingTickets")
 
 }
